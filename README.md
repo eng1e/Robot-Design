@@ -4,7 +4,6 @@
 
 ***The robot consists of approximately 6 parts:***
 *The head, neck, eye screen, tires, the frame, and the advertisement display screen.*
-![image of a robot].(CINEMA 4D Robotdesign.png)
 
 ### Attention
 *During the design, some important points were taken into account*
